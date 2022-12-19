@@ -29,22 +29,23 @@ export default class SpeciesList extends LightningElement {
     */
 
     // Properties, Getters and Setters
-    searchText;
+    searchText = '';
 
     // Lifecycle Hooks
 
 
     // WIRE
-    @wire(getFilteredSpecies, { searchText: '$speciesSearchesText' })
+    @wire(getFilteredSpecies, { searchText: '$searchText' })
     species;
 
 
     // Methods
     handleInputChange(event) {
 
-        const searchTextAux = event.target.value;
+        const searchTextAux = event.detail.value;
+        console.log("Texto recibido: ", searchTextAux);
 
-        if(searchTextAux.length > 2 || searchTextAux === '') {
+        if(searchTextAux.length >= 2 || searchTextAux === '') {
             this.searchText = searchTextAux;
         }
 
