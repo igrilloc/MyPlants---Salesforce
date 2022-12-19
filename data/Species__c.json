@@ -1,0 +1,91 @@
+{
+    "records": [
+        {
+            "attributes": {
+            "type": "Species__c",
+            "referenceId": "Species__cRef1"
+            },
+            "Name": "Hierbabuena",
+            "Description__c": "Arómatica que huele de maravilla, muy usada en la gastronomía, en la medicina popular y para hacer te",
+            "Location__c": "Indoors;Outdoors",
+            "Min_Temperature__c": 15,
+            "Max_Temperature__c": 30,
+            "Pulverization__c": false,
+            "Image_URL__c": "https://decoracionyjardines.com/wp-content/uploads/2017/02/cuidados-de-la-hierbabuena.jpg",
+            "Sowing__c": "MAR;APR;MAY",
+            "Harvesting_After_Months__c": 2,
+            "Type__c": "Edible"
+        },
+        {
+            "attributes": {
+            "type": "Species__c",
+            "referenceId": "Species__cRef2"
+            },
+            "Name": "Jazmín Común",
+            "Description__c": "Olorosa y bonita planta trepadora",
+            "Location__c": "Outdoors",
+            "Pulverization__c": false,
+            "Image_URL__c": "https://i.pinimg.com/originals/88/a4/9f/88a49f73cb34bb49ea799087ad2fba15.jpg",
+            "Type__c": "Ornamental"
+        },
+        {
+            "attributes": {
+            "type": "Species__c",
+            "referenceId": "Species__cRef3"
+            },
+            "Name": "Poto",
+            "Description__c": "Bonita planta de interior que no requiere muchos cuidados y se expandirá casi sin mirarla!",
+            "Location__c": "Indoors",
+            "Min_Temperature__c": 3,
+            "Max_Temperature__c": 21,
+            "Pulverization__c": true,
+            "Image_URL__c": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2020/10/cuidados-de-las-plantas-telefono.jpg",
+            "Type__c": "Ornamental"
+        },
+        {
+            "attributes": {
+            "type": "Species__c",
+            "referenceId": "Species__cRef4"
+            },
+            "Name": "Planta del Dinero (Hiedra Sueca)",
+            "Description__c": "Planta decorativa de interior preciosa. Utilizada en fengshui.",
+            "Location__c": "Indoors",
+            "Min_Temperature__c": 20,
+            "Max_Temperature__c": 20,
+            "Pulverization__c": false,
+            "Image_URL__c": "https://images-na.ssl-images-amazon.com/images/I/61b9Wabg3rL._AC_.jpg",
+            "Type__c": "Ornamental"
+        },
+        {
+            "attributes": {
+            "type": "Species__c",
+            "referenceId": "Species__cRef5"
+            },
+            "Name": "Aloe Vera",
+            "Description__c": "Conocida por sus propiedades medicinales y aplicaciones para la piel",
+            "Location__c": "Indoors;Outdoors",
+            "Min_Temperature__c": 17,
+            "Max_Temperature__c": 25,
+            "Pulverization__c": true,
+            "Image_URL__c": "https://www.farmaceuticonline.com/wp-content/uploads/2019/03/aloevera-1024x768.jpg",
+            "Type__c": "Ornamental"
+        },
+        {
+            "attributes": {
+            "type": "Species__c",
+            "referenceId": "Species__cRef6"
+            },
+            "Name": "Perejil",
+            "Description__c": "Para dar sabor a todos tus guisos!",
+            "Location__c": "Indoors;Outdoors",
+            "Min_Temperature__c": 15,
+            "Max_Temperature__c": 25,
+            "Pulverization__c": true,
+            "Image_URL__c": "https://mejorconsalud.as.com/wp-content/uploads/2016/05/rama-perejil-fresco.jpg",
+            "Sowing__c": "MAR;APR;MAY",
+            "Harvesting_After_Months__c": 3,
+            "Type__c": "Edible",
+            "Blooming_Notes__c": "La floración se produce al segundo año de su siembra"
+        }
+    ]
+}
