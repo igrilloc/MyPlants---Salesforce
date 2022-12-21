@@ -12,6 +12,7 @@
             "Max_Temperature__c": 30,
             "Summer_Watering_Frequency__c": "Daily",
             "Pulverization__c": false,
+            "Summer_Fertilization_Frequency__c": "Every other Week",
             "Image_URL__c": "https://decoracionyjardines.com/wp-content/uploads/2017/02/cuidados-de-la-hierbabuena.jpg",
             "Sowing__c": "MAR;APR;MAY",
             "Harvesting_After_Months__c": 2,
@@ -28,6 +29,7 @@
             "Location__c": "Outdoors",
             "Summer_Watering_Frequency__c": "Twice per week",
             "Pulverization__c": false,
+            "Summer_Fertilization_Frequency__c": "Monthly",
             "Image_URL__c": "https://i.pinimg.com/originals/88/a4/9f/88a49f73cb34bb49ea799087ad2fba15.jpg",
             "Winter_Watering_Frequency__c": "Weekly",
             "Type__c": "Ornamental"
@@ -44,6 +46,7 @@
             "Max_Temperature__c": 21,
             "Summer_Watering_Frequency__c": "Twice per week",
             "Pulverization__c": true,
+            "Summer_Fertilization_Frequency__c": "Every other Week",
             "Image_URL__c": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2020/10/cuidados-de-las-plantas-telefono.jpg",
             "Winter_Watering_Frequency__c": "Weekly",
             "Type__c": "Ornamental"
@@ -60,6 +63,7 @@
             "Max_Temperature__c": 20,
             "Summer_Watering_Frequency__c": "Twice per week",
             "Pulverization__c": false,
+            "Summer_Fertilization_Frequency__c": "Every other Week",
             "Image_URL__c": "https://images-na.ssl-images-amazon.com/images/I/61b9Wabg3rL._AC_.jpg",
             "Winter_Watering_Frequency__c": "Weekly",
             "Type__c": "Ornamental"
@@ -76,6 +80,7 @@
             "Max_Temperature__c": 25,
             "Summer_Watering_Frequency__c": "Weekly",
             "Pulverization__c": true,
+            "Summer_Fertilization_Frequency__c": "Every other Week",
             "Image_URL__c": "https://www.farmaceuticonline.com/wp-content/uploads/2019/03/aloevera-1024x768.jpg",
             "Winter_Watering_Frequency__c": "Monthly",
             "Type__c": "Ornamental"
