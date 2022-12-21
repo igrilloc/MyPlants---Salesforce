@@ -43,7 +43,7 @@ export default class SpeciesList extends LightningElement {
     handleInputChange(event) {
 
         const searchTextAux = event.detail.value;
-        console.log("Texto recibido: ", searchTextAux);
+        // console.log("Texto recibido: ", searchTextAux);
 
         if(searchTextAux.length >= 2 || searchTextAux === '') {
             this.searchText = searchTextAux;
