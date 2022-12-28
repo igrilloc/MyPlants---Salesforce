@@ -61,7 +61,8 @@ public with sharing class PlantTriggerHandler {
         List<Species__c> species = [
             SELECT Summer_Watering_Frequency__c, Winter_Watering_Frequency__c
             FROM Species__c
-            WHERE Id IN :specieIds
+            WHERE Id 
+            IN :specieIds
             WITH SECURITY_ENFORCED
         ];
       
